@@ -14,6 +14,7 @@ Repo ini ditujukan untuk UTS Pemrograman Berbasis Object dengan studi kasus hewa
 #### Attribute & Method :
 
 >__Hewan__ :   
+
 Attribut :
 ```java
     protected String nama;
@@ -28,7 +29,8 @@ Method :
 ```
 
 
->__HewanDarat__ :   
+>__HewanDarat__ :  
+
 Attribut :
 ```java
     protected int jumlahKaki;
@@ -38,14 +40,16 @@ Method :
 ```
 
 >__HewanLaut__ :   
+
 Attribut :
 ```java
 ```
-Method : 
+Method :
 ```java
 ```
 
 >__Burung__ :   
+
 Attribut :
 ```java
     private int panjangSayap;
@@ -55,6 +59,7 @@ Method :
 ```
 
 >__Ikan__ :   
+
 Attribut :
 ```java
     private int panjangSirip;
